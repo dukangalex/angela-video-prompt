@@ -1,4 +1,4 @@
-# Angela Video Prompt
+# Angela Video Prompt（帝江）
 
 AI 视频生成的提示词工作流（自有版）：写提示词 → 生成 → 多段拼接成长片 → 抽帧验证 → 案例沉淀。
 
